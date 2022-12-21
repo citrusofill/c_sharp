@@ -1,0 +1,15 @@
+D:\YandexDisk\GB\C#\lesson1\program6\bin\Debug\net7.0\program6.exe
+D:\YandexDisk\GB\C#\lesson1\program6\bin\Debug\net7.0\program6.deps.json
+D:\YandexDisk\GB\C#\lesson1\program6\bin\Debug\net7.0\program6.runtimeconfig.json
+D:\YandexDisk\GB\C#\lesson1\program6\bin\Debug\net7.0\program6.dll
+D:\YandexDisk\GB\C#\lesson1\program6\bin\Debug\net7.0\program6.pdb
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\program6.csproj.AssemblyReference.cache
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\program6.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\program6.AssemblyInfoInputs.cache
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\program6.AssemblyInfo.cs
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\program6.csproj.CoreCompileInputs.cache
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\program6.dll
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\refint\program6.dll
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\program6.pdb
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\program6.genruntimeconfig.cache
+D:\YandexDisk\GB\C#\lesson1\program6\obj\Debug\net7.0\ref\program6.dll
