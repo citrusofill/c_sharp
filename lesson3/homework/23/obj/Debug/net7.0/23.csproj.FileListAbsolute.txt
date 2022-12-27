@@ -1,0 +1,15 @@
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\bin\Debug\net7.0\23.exe
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\bin\Debug\net7.0\23.deps.json
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\bin\Debug\net7.0\23.runtimeconfig.json
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\bin\Debug\net7.0\23.dll
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\bin\Debug\net7.0\23.pdb
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\23.csproj.AssemblyReference.cache
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\23.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\23.AssemblyInfoInputs.cache
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\23.AssemblyInfo.cs
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\23.csproj.CoreCompileInputs.cache
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\23.dll
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\refint\23.dll
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\23.pdb
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\23.genruntimeconfig.cache
+D:\YandexDisk\GB\c_sharp\lesson3\homework\23\obj\Debug\net7.0\ref\23.dll
