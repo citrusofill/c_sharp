@@ -1,0 +1,15 @@
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\bin\Debug\net6.0\62.exe
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\bin\Debug\net6.0\62.deps.json
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\bin\Debug\net6.0\62.runtimeconfig.json
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\bin\Debug\net6.0\62.dll
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\bin\Debug\net6.0\62.pdb
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\62.csproj.AssemblyReference.cache
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\62.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\62.AssemblyInfoInputs.cache
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\62.AssemblyInfo.cs
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\62.csproj.CoreCompileInputs.cache
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\62.dll
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\refint\62.dll
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\62.pdb
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\62.genruntimeconfig.cache
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\62\obj\Debug\net6.0\ref\62.dll

@@ -1,0 +1,15 @@
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\58.csproj.AssemblyReference.cache
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\58.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\58.AssemblyInfoInputs.cache
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\58.AssemblyInfo.cs
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\58.csproj.CoreCompileInputs.cache
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\bin\Debug\net6.0\58.exe
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\bin\Debug\net6.0\58.deps.json
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\bin\Debug\net6.0\58.runtimeconfig.json
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\bin\Debug\net6.0\58.dll
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\bin\Debug\net6.0\58.pdb
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\58.dll
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\refint\58.dll
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\58.pdb
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\58.genruntimeconfig.cache
+D:\work\Geekbrains\csharp\c_sharp\lesson8\homework\58\obj\Debug\net6.0\ref\58.dll
